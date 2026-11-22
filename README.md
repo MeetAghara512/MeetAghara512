@@ -39,8 +39,8 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
-  <img src="assets/stack-light.svg" width="100%" alt="Skills — Problem solving: C++, Java, Python, DSA, competitive programming. Systems: system design, microservices, Kafka, WebRTC, Socket.IO. Backend and full-stack: Node.js, Express, Flask, REST APIs, React. Databases: MongoDB, MySQL, Redis. DevOps and cloud: Docker, Docker Compose, CI/CD, GitHub Actions, AWS, Git. AI/ML: machine learning, deep learning, computer vision, LLMs.">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/skillset-dark.svg">
+  <img src="assets/skillset-light.svg" width="100%" alt="Skills — Problem solving: C++, Java, Python, DSA, competitive programming. Systems: system design, microservices, Kafka, WebRTC, Socket.IO. Backend and full-stack: Node.js, Express, Flask, REST APIs, React. Databases: MongoDB, MySQL, Redis. DevOps and cloud: Docker, Docker Compose, CI/CD, GitHub Actions, AWS, Git. AI/ML: machine learning, deep learning, computer vision, LLMs.">
 </picture>
 
 <br><br>
