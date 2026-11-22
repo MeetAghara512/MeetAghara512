@@ -13,8 +13,8 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/work-dark.svg">
-  <img src="assets/work-light.svg" width="100%" alt="Experience — Software Development Engineer at Fast Code AI, Bengaluru (Aug 2026 to present): AI and backend for a platform that turns engineering drawings into a connected digital plant model. Software Development Engineer Intern at Samsung R&amp;D Institute, Noida (Jan to Jun 2026): on-device Android system that reads prescriptions and lab reports with TensorFlow Lite and ONNX.">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/roles-dark.svg">
+  <img src="assets/roles-light.svg" width="100%" alt="Experience — Software Development Engineer at Fast Code AI, Bengaluru (Aug 2026 to present). Software Development Engineer Intern at Samsung R&amp;D Institute, Noida (Jan to Jun 2026).">
 </picture>
 
 <br><br>
