@@ -21,15 +21,15 @@
 
 <a href="https://github.com/MeetAghara512/ShareThings">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/sharethings-dark.svg">
-    <img src="assets/sharethings-light.svg" width="100%" alt="ShareThings — peer-to-peer video calls and screen sharing over WebRTC and Socket.IO, load-tested at 5,000 concurrent users. WebRTC, React, Socket.IO, Docker.">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/p-sharethings-dark.svg">
+    <img src="assets/p-sharethings-light.svg" width="100%" alt="ShareThings — peer-to-peer video calls and screen sharing over WebRTC and Socket.IO, load-tested at 5,000 concurrent users. WebRTC, STUN/TURN, WebSockets, Docker, Node.js.">
   </picture>
 </a>
 
-<a href="https://github.com/MeetAghara512/drivemyway"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/drivemyway-dark.svg"><img src="assets/drivemyway-light.svg" width="49.5%" alt="drivemyway — car rental platform with booking, payments and owner dashboards. React, Node.js, MongoDB."></picture></a>
-<a href="https://github.com/MeetAghara512/Insight-360-R"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/insight-dark.svg"><img src="assets/insight-light.svg" width="49.5%" alt="Insight-360-R — turns research papers into slide decks, podcasts and flowcharts. LLaMA, Mistral, ElevenLabs."></picture></a>
-<a href="https://github.com/MeetAghara512/KitchenSense-AI"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/kitchensense-dark.svg"><img src="assets/kitchensense-light.svg" width="49.5%" alt="KitchenSense-AI — vision-based inventory tracking and food-waste forecasting for kitchens. YOLOv8, Prophet, Flask."></picture></a>
-<a href="https://github.com/MeetAghara512/Os-Scheduler-Simulator"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/scheduler-dark.svg"><img src="assets/scheduler-light.svg" width="49.5%" alt="CPU Scheduler Visualizer — animated Gantt charts for FCFS, SJF, SRTF, Round Robin and Priority. React, Tailwind CSS."></picture></a>
+<a href="https://github.com/MeetAghara512/drivemyway"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/p-drivemyway-dark.svg"><img src="assets/p-drivemyway-light.svg" width="49.5%" alt="drivemyway — car rental platform with booking, payments and owner dashboards. Stripe, JWT, REST, MongoDB, Express."></picture></a>
+<a href="https://github.com/MeetAghara512/Insight-360-R"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/p-insight-dark.svg"><img src="assets/p-insight-light.svg" width="49.5%" alt="Insight-360-R — turns research papers into slide decks, podcasts and flowcharts. LLaMA, Mistral, ElevenLabs, PyMuPDF, Mermaid."></picture></a>
+<a href="https://github.com/MeetAghara512/KitchenSense-AI"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/p-kitchensense-dark.svg"><img src="assets/p-kitchensense-light.svg" width="49.5%" alt="KitchenSense-AI — vision-based inventory tracking and food-waste forecasting for kitchens. YOLOv8, XGBoost, Flask."></picture></a>
+<a href="https://github.com/MeetAghara512/Os-Scheduler-Simulator"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/p-scheduler-dark.svg"><img src="assets/p-scheduler-light.svg" width="49.5%" alt="CPU Scheduler Visualizer — animated Gantt charts for FCFS, SJF, SRTF, Round Robin and Priority. Scheduling, React."></picture></a>
 
 <br><br>
 
