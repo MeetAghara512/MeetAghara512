@@ -26,7 +26,7 @@
   </picture>
 </a>
 
-<a href="https://github.com/MeetAghara512/DriveMyWay"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-drive-dark.svg"><img src="assets/card-drive-light.svg" width="49.5%" alt="DriveMyWay — car rental platform with booking, payments and owner dashboards."></picture></a>
+<a href="https://github.com/MeetAghara512/DriveMyWay"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-dmw-dark.svg"><img src="assets/card-dmw-light.svg" width="49.5%" alt="DriveMyWay — car rental platform with booking, payments and owner dashboards."></picture></a>
 <a href="https://github.com/MeetAghara512/Insight-360-R"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-insight-dark.svg"><img src="assets/card-insight-light.svg" width="49.5%" alt="Insight-360-R — turns research papers into slide decks, podcasts and flowcharts."></picture></a>
 <a href="https://github.com/MeetAghara512/KitchenSense-AI"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-kitchensense-dark.svg"><img src="assets/card-kitchensense-light.svg" width="49.5%" alt="KitchenSense-AI — vision-based inventory tracking and food-waste forecasting for kitchens."></picture></a>
 <a href="https://github.com/MeetAghara512/Os-Scheduler-Simulator"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-scheduler-dark.svg"><img src="assets/card-scheduler-light.svg" width="49.5%" alt="CPU Scheduler Visualizer — animated Gantt charts for FCFS, SJF, SRTF, Round Robin and Priority."></picture></a>
