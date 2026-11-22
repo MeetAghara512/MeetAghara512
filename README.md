@@ -21,15 +21,15 @@
 
 <a href="https://github.com/MeetAghara512/ShareThings">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/p-sharethings-dark.svg">
-    <img src="assets/p-sharethings-light.svg" width="100%" alt="ShareThings — peer-to-peer video calls and screen sharing over WebRTC and Socket.IO, load-tested at 5,000 concurrent users. WebRTC, STUN/TURN, WebSockets, Docker, Node.js.">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/card-sharethings-dark.svg">
+    <img src="assets/card-sharethings-light.svg" width="100%" alt="ShareThings — peer-to-peer video calls and screen sharing over WebRTC and Socket.IO, load-tested at 5,000 concurrent users.">
   </picture>
 </a>
 
-<a href="https://github.com/MeetAghara512/drivemyway"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/p-drivemyway-dark.svg"><img src="assets/p-drivemyway-light.svg" width="49.5%" alt="drivemyway — car rental platform with booking, payments and owner dashboards. Stripe, JWT, REST, MongoDB, Express."></picture></a>
-<a href="https://github.com/MeetAghara512/Insight-360-R"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/p-insight-dark.svg"><img src="assets/p-insight-light.svg" width="49.5%" alt="Insight-360-R — turns research papers into slide decks, podcasts and flowcharts. LLaMA, Mistral, ElevenLabs, PyMuPDF, Mermaid."></picture></a>
-<a href="https://github.com/MeetAghara512/KitchenSense-AI"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/p-kitchensense-dark.svg"><img src="assets/p-kitchensense-light.svg" width="49.5%" alt="KitchenSense-AI — vision-based inventory tracking and food-waste forecasting for kitchens. YOLOv8, XGBoost, Flask."></picture></a>
-<a href="https://github.com/MeetAghara512/Os-Scheduler-Simulator"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/p-scheduler-dark.svg"><img src="assets/p-scheduler-light.svg" width="49.5%" alt="CPU Scheduler Visualizer — animated Gantt charts for FCFS, SJF, SRTF, Round Robin and Priority. Scheduling, React."></picture></a>
+<a href="https://github.com/MeetAghara512/drivemyway"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-drivemyway-dark.svg"><img src="assets/card-drivemyway-light.svg" width="49.5%" alt="drivemyway — car rental platform with booking, payments and owner dashboards."></picture></a>
+<a href="https://github.com/MeetAghara512/Insight-360-R"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-insight-dark.svg"><img src="assets/card-insight-light.svg" width="49.5%" alt="Insight-360-R — turns research papers into slide decks, podcasts and flowcharts."></picture></a>
+<a href="https://github.com/MeetAghara512/KitchenSense-AI"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-kitchensense-dark.svg"><img src="assets/card-kitchensense-light.svg" width="49.5%" alt="KitchenSense-AI — vision-based inventory tracking and food-waste forecasting for kitchens."></picture></a>
+<a href="https://github.com/MeetAghara512/Os-Scheduler-Simulator"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-scheduler-dark.svg"><img src="assets/card-scheduler-light.svg" width="49.5%" alt="CPU Scheduler Visualizer — animated Gantt charts for FCFS, SJF, SRTF, Round Robin and Priority."></picture></a>
 
 <br><br>
 
@@ -39,8 +39,8 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/skills-v2-dark.svg">
-  <img src="assets/skills-v2-light.svg" width="100%" alt="Skills — Languages: C++, Java, Python, JavaScript. Systems: system design, microservices, Kafka, WebRTC, Socket.IO, WebSockets, load testing. Backend and full-stack: Node.js, Express, Flask, REST APIs, JWT auth, React. Databases: MongoDB, MySQL, Redis. DevOps and cloud: Docker, Docker Compose, Kubernetes, CI/CD, GitHub Actions, AWS, Git. AI/ML: machine learning, deep learning, computer vision, LLMs.">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/skills-v3-dark.svg">
+  <img src="assets/skills-v3-light.svg" width="100%" alt="Skills — Languages: C++, Java, Python, JavaScript. System design: high-level design, low-level design, microservices, load testing. Real-time and messaging: Kafka, WebRTC, Socket.IO, WebSockets. Backend and full-stack: Node.js, Express, Flask, REST APIs, JWT auth, React. Databases: MongoDB, MySQL, Redis. DevOps and cloud: Docker, Docker Compose, Kubernetes, CI/CD, GitHub Actions, AWS, Git. AI/ML: machine learning, deep learning, computer vision, LLMs.">
 </picture>
 
 <br><br>
