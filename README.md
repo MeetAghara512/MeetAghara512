@@ -26,7 +26,7 @@
   </picture>
 </a>
 
-<a href="https://github.com/MeetAghara512/drivemyway"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-drivemyway-dark.svg"><img src="assets/card-drivemyway-light.svg" width="49.5%" alt="drivemyway — car rental platform with booking, payments and owner dashboards."></picture></a>
+<a href="https://github.com/MeetAghara512/DriveMyWay"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-drive-dark.svg"><img src="assets/card-drive-light.svg" width="49.5%" alt="DriveMyWay — car rental platform with booking, payments and owner dashboards."></picture></a>
 <a href="https://github.com/MeetAghara512/Insight-360-R"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-insight-dark.svg"><img src="assets/card-insight-light.svg" width="49.5%" alt="Insight-360-R — turns research papers into slide decks, podcasts and flowcharts."></picture></a>
 <a href="https://github.com/MeetAghara512/KitchenSense-AI"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-kitchensense-dark.svg"><img src="assets/card-kitchensense-light.svg" width="49.5%" alt="KitchenSense-AI — vision-based inventory tracking and food-waste forecasting for kitchens."></picture></a>
 <a href="https://github.com/MeetAghara512/Os-Scheduler-Simulator"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-scheduler-dark.svg"><img src="assets/card-scheduler-light.svg" width="49.5%" alt="CPU Scheduler Visualizer — animated Gantt charts for FCFS, SJF, SRTF, Round Robin and Priority."></picture></a>
@@ -45,6 +45,6 @@
 
 <br><br>
 
-<sub><a href="https://www.linkedin.com/in/meetaghara512">LinkedIn</a> · <a href="https://codeforces.com/profile/meet.aghara522">Codeforces</a> · <a href="https://leetcode.com/u/meet_aghara522">LeetCode</a> · Live demos: <a href="https://sharethings-web.onrender.com">ShareThings</a>, <a href="https://drivemyway-web.onrender.com">drivemyway</a></sub>
+<sub><a href="https://www.linkedin.com/in/meetaghara512">LinkedIn</a> · <a href="https://codeforces.com/profile/meet.aghara522">Codeforces</a> · <a href="https://leetcode.com/u/meet_aghara522">LeetCode</a> · Live demos: <a href="https://sharethings-web.onrender.com">ShareThings</a>, <a href="https://drivemyway-web.onrender.com">DriveMyWay</a></sub>
 
 </div>
