@@ -39,8 +39,8 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/toolbox-dark.svg">
-  <img src="assets/toolbox-light.svg" width="100%" alt="Toolbox — languages: C++, Python, Java, JavaScript. Full-stack: React, Node.js, Express, Flask, REST APIs. AI/ML: PyTorch, computer vision, OCR, LLMs, TensorFlow Lite, ONNX. Systems: WebRTC, Socket.IO, Kafka, microservices. Data: MongoDB, MySQL, Redis. Tools: Docker, GitHub Actions, AWS, Git.">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/skills-dark.svg">
+  <img src="assets/skills-light.svg" width="100%" alt="Skills — Problem solving: C++, Java, Python, DSA, competitive programming. Systems: system design, microservices, Kafka, WebRTC, Socket.IO. Backend and full-stack: Node.js, Express, Flask, REST APIs, React. Databases: MongoDB, MySQL, Redis. DevOps and cloud: Docker, Docker Compose, CI/CD, GitHub Actions, AWS, Git. AI/ML: machine learning, deep learning, computer vision, LLMs.">
 </picture>
 
 <br><br>
