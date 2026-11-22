@@ -34,8 +34,8 @@
 <br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/ranks-dark.svg">
-  <img src="assets/ranks-light.svg" width="100%" alt="Competitive programming — Codeforces Expert (1630, 1100+ problems solved), LeetCode Knight (1965, top 3% globally), CodeChef 4-star (1851). Hackathons: Top 5 at MINeD 2025, Top 10 at HackNuthon 6.0.">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/ratings-dark.svg">
+  <img src="assets/ratings-light.svg" width="100%" alt="Competitive programming — Codeforces Expert (1630, 1100+ problems solved), LeetCode Knight (1965, top 3% globally), CodeChef 4-star (1851).">
 </picture>
 
 <picture>
