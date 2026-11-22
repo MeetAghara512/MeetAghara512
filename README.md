@@ -39,8 +39,8 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/skills-v3-dark.svg">
-  <img src="assets/skills-v3-light.svg" width="100%" alt="Skills — Languages: C++, Java, Python, JavaScript. System design: high-level design, low-level design, microservices, load testing. Real-time and messaging: Kafka, WebRTC, Socket.IO, WebSockets. Backend and full-stack: Node.js, Express, Flask, REST APIs, JWT auth, React. Databases: MongoDB, MySQL, Redis. DevOps and cloud: Docker, Docker Compose, Kubernetes, CI/CD, GitHub Actions, AWS, Git. AI/ML: machine learning, deep learning, computer vision, LLMs.">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/skills-v4-dark.svg">
+  <img src="assets/skills-v4-light.svg" width="100%" alt="Skills — Languages: C++, Java, Python, JavaScript. System design: high-level design, low-level design, microservices, CDN, load testing. Real-time and messaging: Kafka, WebRTC, Socket.IO, WebSockets. Backend and full-stack: Node.js, Express, Flask, REST APIs, JWT auth, React. Databases: MongoDB, MySQL, Redis. DevOps and cloud: Docker, Docker Compose, Kubernetes, CI/CD, GitHub Actions, AWS, Git. AI/ML: machine learning, deep learning, computer vision, LLMs.">
 </picture>
 
 <br><br>
