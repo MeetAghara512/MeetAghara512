@@ -2,8 +2,8 @@
 
 <a href="https://github.com/MeetAghara512">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-    <img src="assets/banner-light.svg" width="100%" alt="Meet Aghara — software development engineer at Fast Code AI, previously on-device ML at Samsung R&amp;D Institute. I build production AI and backend systems, end to end.">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+    <img src="assets/header-light.svg" width="100%" alt="Meet Aghara — software development engineer at Fast Code AI, previously SDE intern at Samsung R&amp;D Institute. I build production AI and backend systems, end to end.">
   </picture>
 </a>
 
