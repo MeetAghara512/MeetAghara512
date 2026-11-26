@@ -26,18 +26,6 @@ PROFILE = {
                  ("KitchenSense-AI", "Vision inventory and food-waste forecasting", False),
                  ("CPU Scheduler", "Animated Gantt charts for OS scheduling", False)],
 }
-QUOTES = [
-    ("Talk is cheap. Show me the code.", "Linus Torvalds"),
-    ("Simplicity is prerequisite for reliability.", "Edsger W. Dijkstra"),
-    ("Programs must be written for people to read, and only incidentally for machines to execute.", "Harold Abelson"),
-    ("Make it work, make it right, make it fast.", "Kent Beck"),
-    ("Any fool can write code that a computer can understand. Good programmers write code that humans can understand.", "Martin Fowler"),
-    ("Before software can be reusable it first has to be usable.", "Ralph Johnson"),
-    ("Premature optimization is the root of all evil.", "Donald Knuth"),
-    ("First, solve the problem. Then, write the code.", "John Johnson"),
-    ("The best error message is the one that never shows up.", "Thomas Fuchs"),
-    ("Deleted code is debugged code.", "Jeff Sickel"),
-]
 IGNORE_LANGS = {"Cython", "XSLT", "PowerShell", "Batchfile", "Shell", "Dockerfile", "Makefile", "CMake", "Procfile"}
 
 # palette
@@ -248,21 +236,6 @@ def build(c, snake_svg):
                 cells.append(f'<rect x="{40 + i*cell:.1f}" y="{{Y}}" width="{cell-3:.1f}" height="{cell-3:.1f}" rx="2" fill="{lv[k]}" transform="translate(0,{wd*cell:.1f})"/>')
         body = "".join(cells)
     h = int(gh + 82); out.append(section(y, h, "CONTRIBUTION SNAKE")); out.append(body.replace("{Y}", f"{y+52}")); y += h + 16
-
-    # quote of the day
-    q, a = QUOTES[c["today"].toordinal() % len(QUOTES)]
-    words, lines, cur = q.split(), [], ""
-    for wd in words:
-        if tw(SANS, f"“{cur} {wd}”", 16) > W - 170 and cur: lines.append(cur); cur = wd
-        else: cur = f"{cur} {wd}".strip()
-    lines.append(cur); lines[0] = "“" + lines[0]; lines[-1] += "”"
-    h = 120 + 24 * len(lines); out.append(section(y, h, "DEVELOPER QUOTE"))
-    out.append(f'<rect x="40.5" y="{y+50.5}" width="{W-81}" height="{h-72}" rx="8" fill="#101010" stroke="{BORDER}"/>')
-    out.append(f'<circle cx="{W-58}" cy="{y+68}" r="3" fill="{ACC}"><animate attributeName="opacity" values="1;.3;1" dur="2s" repeatCount="indefinite"/></circle>')
-    out.append(text(62, y + 96, "”", SANS7, 34, ACC))
-    for i, ln_ in enumerate(lines): out.append(text(92, y + 90 + 24 * i, ln_, SANS, 16, TEXT, extra=' font-style="italic"'))
-    out.append(text(W - 62, y + 90 + 24 * len(lines) + 6, f"— {a}", SANS5, 12, MUTED, "end"))
-    y += h + 16
 
     fonts = "".join(f'@font-face{{font-family:{f};src:url(data:font/woff2;base64,{base64.b64encode(open(os.path.join(HERE, "fonts", f + ".woff2"), "rb").read()).decode()}) format("woff2")}}'
                     for f in (SANS, SANS5, SANS7, MONO, MONO7))
